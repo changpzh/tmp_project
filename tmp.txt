@@ -1,1 +1,2 @@
 ##first line\nSecond line
+line\nnewLine
