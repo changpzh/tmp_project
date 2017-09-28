@@ -1,3 +1,4 @@
 ##first line\nSecond line
 line\nnewLine
 hhaa in tmp.txt
+new line
