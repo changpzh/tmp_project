@@ -1,2 +1,3 @@
 master in master.txt
 last line in master.txt on branch master
+you are right in branch issue1
