@@ -3,3 +3,4 @@ last line in master.txt on branch master
 I also add one line master branch
 add more one line master branch in master.txt
 dfasdf
+you are right in branch issue1
